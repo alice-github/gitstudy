@@ -7,3 +7,4 @@ q = exit,w = save, wq = exit and save ,q! = exit and nosave
 
 
 eeeee
+fffffffffffff
